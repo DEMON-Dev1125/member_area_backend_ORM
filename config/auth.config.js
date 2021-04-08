@@ -1,4 +1,3 @@
 module.exports = {
-    secret: "memberarea-secret-key"
-  };
-  
+  secret: "memberarea-secret-key",
+};
